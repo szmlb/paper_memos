@@ -8,7 +8,10 @@ xxxxに掲載された, xxxx大学所属のxxxxによる論文.
 論文リンク
 
 ### 論文概要の動画
-動画リンク
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/FQCqeJlneAc/0.jpg)](http://www.youtube.com/watch?v=FQCqeJlneAc)
+
+  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 どんなもの？(概要)
 ------------------
