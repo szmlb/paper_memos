@@ -1,17 +1,32 @@
 論文情報
 ------------------
 
-### 著者情報
+#### 著者情報
 
 xxxxに掲載された, xxxx大学所属のxxxxによる論文.
 
-論文リンク
+###### 論文リンク
 
-### 論文概要の動画
+###### Bibtex
+
+@ARTICLE{7575680, 
+author={T. Faulwasser and T. Weber and P. Zometa and R. Findeisen}, 
+journal={IEEE Transactions on Control Systems Technology}, 
+title={Implementation of Nonlinear Model Predictive Path-Following Control for an Industrial Robot}, 
+year={2017}, 
+volume={25}, 
+number={4}, 
+pages={1505-1511}, 
+keywords={geometry;industrial robots;nonlinear control systems;path planning;predictive control;velocity control;nonlinear model predictive path-following control;industrial robot;robotic applications;precise following;predefined geometric path;real-time feasible implementation;reference speed assignment;KUKA LWR IV robot;Timing;Trajectory;Predictive models;Service robots;Predictive control;Tracking;Constraints;KUKA LWR IV;nonlinear model predictive control (NMPC);optimal control;path following}, 
+doi={10.1109/TCST.2016.2601624}, 
+ISSN={1063-6536}, 
+month={July},}
+
+#### 論文概要の動画
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/FQCqeJlneAc/0.jpg)](http://www.youtube.com/watch?v=FQCqeJlneAc)
 
-  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+    [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 どんなもの？(概要)
 ------------------
