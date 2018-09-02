@@ -10,7 +10,7 @@ ETHZの論文. Robotics and Automation lettersの論文.
 
 ### 論文概要の動画
 <iframe width="560" height="315" frameborder="0" allowfullscreen="" src="//www.youtube.com/embed/0jE46GqzxMM"></iframe><br><a href="https://youtube.com/watch?v=0jE46GqzxMM">Gait and Trajectory Optimization through Phase-based End-Effector Parameterization</a>
-
+  
 なんと著者によるチュートリアル動画まである. すごい.
 [https://www.youtube.com/watch?v=KhWuLvb934g:embed:cite]
 
@@ -36,7 +36,7 @@ ETHZの論文. Robotics and Automation lettersの論文.
 - 本手法では, 脚部の質量が胴体部と比較して無視できると仮定している (いわゆる単質点近似モデル). よって, 脚部が重いロボットに対してはダイナミクスの誤差が無視できなくなるので, 詳細なダイナミクスモデルを仮定する必要がある.  
 - 床面の状態に関する拘束(床との衝突, 摩擦円錐など)は脚動作の軌道の交差点上でしか考慮されていないので, 制約を破ってしまう危険性がある (ここはよく分かってない).
 - 床面が複雑すぎると局所最適解に陥る
-
+  
 今後の計画として, 最適化の計算時間をより短縮してモデル予測制御的な逐次最適化アプローチへと拡張する予定とのことである.
 
 次に読むべき文献は？
