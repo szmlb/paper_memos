@@ -3,9 +3,11 @@
 
 #### 著者情報
 
-xxxxに掲載された, xxxx大学所属のxxxxによる論文.
-
 #### 論文リンク
+
+[IEEE xploreのリンク](https://ieeexplore.ieee.org/document/7575680/)
+
+        [IEEE xploreのリンク](https://ieeexplore.ieee.org/document/7575680/)
 
 #### Bibtex
 
