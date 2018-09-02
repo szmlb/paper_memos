@@ -1,15 +1,13 @@
 論文情報
 ------------------
 
-#### 著者情報
-
-#### 論文リンク
+##### 論文リンク
 
 [IEEE xploreのリンク](https://ieeexplore.ieee.org/document/7575680/)
 
         [IEEE xploreのリンク](https://ieeexplore.ieee.org/document/7575680/)
 
-#### Bibtex
+##### Bibtex
 
         @ARTICLE{7575680, 
         author={T. Faulwasser and T. Weber and P. Zometa and R. Findeisen}, 
@@ -22,7 +20,7 @@
         doi={10.1109/TCST.2016.2601624}, 
         month={July},}
 
-#### 論文概要の動画
+##### 論文概要の動画
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/FQCqeJlneAc/0.jpg)](http://www.youtube.com/watch?v=FQCqeJlneAc)
 
